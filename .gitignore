@@ -53,8 +53,6 @@ $RECYCLE.BIN/
 
 # Custom
 eclipse/
-wrapper/
-config/
 logs/
 run/
 Forge_Client.launch
