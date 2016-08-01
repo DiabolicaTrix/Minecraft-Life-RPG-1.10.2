@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mcliferpg",
+  "name": "Minecraft Life RPG",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.diabolicatrixlab.xyz/MinecraftLifeRPG",
+  "updateUrl": "http://www.diabolicatrixlab.xyz/download.php?id=MinecraftLifeRPG",
+  "authorList": ["DiabolicaTrix"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
