@@ -53,6 +53,10 @@ $RECYCLE.BIN/
 
 # Custom
 eclipse/
+gradle/
+run/
+Forge_Client.launch
+Forge_Server.launch
 .project
 .gradle/
 gradle/
